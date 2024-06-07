@@ -2,14 +2,22 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
-        System.out.println("Hello world!");
+        int x = 0;
+        int i = 0;
+        for (int o=0;o<10;i++){
+            System.out.println("Hello world!");
+        }
+        for (int o=0;o<10;i++){
+            System.out.println("Hello world!");
+        }
+        for (int o=0;o<10;i++){
+            System.out.println("Hello world!");
+        }
+        for (int o=0;o<10;i++){
+            System.out.println("Hello world!");
+        }
+        for (int o=0;o<10;i++){
+            System.out.println("Hello world!");
+        }
     }
 }
